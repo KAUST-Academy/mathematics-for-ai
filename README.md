@@ -1,10 +1,6 @@
-# python-data-science-project
+# mathematics-for-ai
 
-Repository containing scaffolding for a Python 3-based data science project. 
-
-## Creating a new project from this template
-
-Simply follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
+Repository of materials for a multi-day course covering the key mathematical ideas used in artificial intelligence. 
 
 ## Project organization
 
